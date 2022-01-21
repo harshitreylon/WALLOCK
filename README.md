@@ -7,5 +7,7 @@
 
 
 
+***Note:*** 
+[^1]: This script uses the Personalization configuration service provider (CSP), so it will only be supported in Windows 10 (version 1703 or later), Windows 10 Enterprise and Education SKUs, Windows 10 Pro and Windows 10 Pro in S mode if SetEduPolicies in SharedPC CSP is set.
 
-***Note:*** This script uses the Personalization configuration service provider (CSP), so it will only be supported in Windows 10 (version 1703 or later), Windows 10 Enterprise and Education SKUs, Windows 10 Pro and Windows 10 Pro in S mode if SetEduPolicies in SharedPC CSP is set.
+[^2]: This script requires elevated privileges (PowerShell as administrator) , so deal with it accordingly.
